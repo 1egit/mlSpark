@@ -1,4 +1,5 @@
 # **Text Analyzer**
+## Intro
 
 The script provides four ways to analyze text data.
 
@@ -13,7 +14,7 @@ The script provides four ways to analyze text data.
 
 - The cosine similarity between two documents' TFIDF score
 
-### **Usage**
+## **Usage**
 
 Run the following from the command prompt:
 
